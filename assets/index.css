@@ -1,0 +1,17 @@
+.content{
+    font-size: large;
+    text-align: justify;
+}
+.title{
+    margin-bottom: 20px;
+}
+.conference_name{
+    /* position: absolute; */
+}
+.central_align{
+    text-align: center;
+}
+img{
+    display:block;
+    margin:auto;
+}
